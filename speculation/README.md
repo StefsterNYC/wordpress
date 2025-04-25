@@ -15,7 +15,7 @@ This WordPress plugin allows you to easily toggle speculationrules on or off for
 - Fully compatible with WordPress 6.8+
 - Works on any theme
 
-## Installation
+## Installation 
 
 1. Upload the plugin to the `/wp-content/plugins/speculation/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
