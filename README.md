@@ -22,6 +22,11 @@ This repository serves as a collection of WordPress enhancements, audit tools, p
 
 ---
 
+## Philosophy
+
+This repository focuses on lightweight, modular, and performance-oriented WordPress customizations.  
+The goal is to enhance site performance, auditing accuracy, and maintainability without relying on bloated third-party tools or marketplaces.
+
 ## Author 
 
 **StefsterNYC**  
