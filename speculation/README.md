@@ -8,7 +8,7 @@ This WordPress plugin allows you to easily toggle speculationrules on or off for
 ## Features
 
 - One-click toggle inside WordPress Admin (Settings > Reading)
-- WP-CLI Commands:
+- WP-CLI Commands: 
   - `wp speculationrules enable` — Enable Audit Mode (hide speculationrules)
   - `wp speculationrules disable` — Disable Audit Mode (show speculationrules)
 - No edits to `functions.php` needed
