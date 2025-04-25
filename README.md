@@ -2,14 +2,6 @@
 
 This repository contains various WordPress-related customizations, tools, and plugins developed or curated by StefsterNYC.
 
-## Structure
-
-- **/speculation/**  
-  WordPress plugin to toggle speculationrules for accurate Lighthouse audits.  
-  Allows you to temporarily disable speculationrules to prevent Chrome DevTools crashes during audits.
-
-- (Other folders and projects can be added here as needed.)
-
 ## Purpose
 
 This repository serves as a collection of WordPress enhancements, audit tools, performance optimizations, and custom code.
