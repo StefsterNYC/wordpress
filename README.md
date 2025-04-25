@@ -22,7 +22,7 @@ This repository serves as a collection of WordPress enhancements, audit tools, p
 
 ---
 
-## Author
+## Author 
 
 **StefsterNYC**  
 [GitHub Profile](https://github.com/StefsterNYC)
